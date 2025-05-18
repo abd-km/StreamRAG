@@ -1,6 +1,5 @@
 # StreamRAG: Real-time News Streaming and Retrieval-Augmented Generation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 StreamRAG is a real-time news processing system that combines streaming data ingestion with vector database storage for Retrieval-Augmented Generation (RAG). The system fetches news articles from various sources, processes them, and makes them searchable through both vector similarity search and natural language queries.
 
@@ -102,8 +101,8 @@ To use this project, you'll need to set up the following:
 All rights reserved.
 
 ## 🙏 Acknowledgments
-Abdullah Mostafa
-Ahmed Al-Ghoul
-Ahmed Soliman
-Obada Alhomsi
-Mohammed Alhato
+- Abdullah Mostafa
+- Ahmed Al-Ghoul
+- Ahmed Soliman
+- Obada Alhomsi
+- Mohammed Alhato
