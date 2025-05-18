@@ -101,8 +101,17 @@ To use this project, you'll need to set up the following:
 All rights reserved.
 
 ## 🙏 Acknowledgments
-- Abdullah Mostafa
-- Ahmed Al-Ghoul
-- Ahmed Soliman
-- Obada Alhomsi
-- Mohammed Alhato
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  
+[![Abdullah Mostafa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdkm/) Abdullah Mostafa
+
+[![Mohammed Alhato](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-a-6a8989209/) Mohammed Alhato
+
+[![Obada Alhomsi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obada-alhomsi-26167031a/) Obada Alhomsi
+
+[![Ahmed Al-Ghoul](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-al-ghoul/) Ahmed Al-Ghoul
+
+[![Ahmed Soliman](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/as1609200/) Ahmed Soliman
+
+</div>
