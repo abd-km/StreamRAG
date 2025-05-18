@@ -1,0 +1,20 @@
+# Environments and secrets
+.env
+.venv
+.streamlit/secrets.toml
+secrets.toml
+__pycache__/
+*.py[cod]
+
+# Database files (if you don't want to include them)
+# Uncomment if you want to ignore vector DB files
+# news_vector_db/
+# news_vector_db.old/
+
+# Kafka logs
+*.log
+logs/
+
+# Generated data files
+# articles.json
+# trump_articles.json

@@ -1,0 +1,14 @@
+chromadb 
+sentence-transformers 
+kafka-python 
+GoogleNews 
+pandas 
+python-dateutil 
+numpy
+openai>=1.0.0
+streamlit
+langdetect
+langchain-openai
+langchain-chroma
+langchain-huggingface
+langchain
