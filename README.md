@@ -1,5 +1,8 @@
 # StreamRAG: Real-time News Streaming and Retrieval-Augmented Generation
 
+<p align="center">
+  <img src="streamrag.png" alt="StreamRAG Logo" width="600">
+</p>
 
 StreamRAG is a real-time news processing system that combines streaming data ingestion with vector database storage for Retrieval-Augmented Generation (RAG). The system fetches news articles from various sources, processes them, and makes them searchable through both vector similarity search and natural language queries.
 
