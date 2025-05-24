@@ -103,7 +103,7 @@ To use this project, you'll need to set up the following:
 
 All rights reserved.
 
-## 🙏 Acknowledgments
+## 👥 Contributors
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   
